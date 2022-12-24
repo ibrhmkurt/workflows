@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrhmkurt&label=Profile%20views&color=0e75b6&style=flat" alt="ibrhmkurt" /> </p>
 
-- 🔭 I’m currently working on [bootstrapblogproject](https://github.com/ibrhmkurt/bootstrapblogproject.git)
+- 🔭 I’m completed on [bootstrapblogproject](https://github.com/ibrhmkurt/bootstrapblogproject.git)
 
 - 🌱 I’m currently learning **Vuejs, Laravel framework.**
 
