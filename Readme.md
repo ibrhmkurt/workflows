@@ -5,7 +5,7 @@
 
 - 🔭 I’m completed on [bootstrapblogproject](https://github.com/ibrhmkurt/bootstrapblogproject.git)
 
-- 🌱 I’m currently learning **Vuejs, Laravel framework.**
+- 🌱 I’m currently learning **Laravel framework.**
 
 - 📝 I regularly write articles on [https://ibrhmkurt7o.medium.com/](https://ibrhmkurt7o.medium.com/)
 
